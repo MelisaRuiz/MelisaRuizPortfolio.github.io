@@ -32,11 +32,13 @@ nav {
     display: inline-block;
   }
   .indice:hover {
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
     background-color: #4b506f;
     color: #f0f2f9;
     transition: all 0.3s ease-in-out;
   }
   section {
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
     margin-bottom: 20px;
     margin-left: 400px;
     margin-right: 400px;
@@ -68,6 +70,7 @@ nav {
     border: 0;
   }
   button:hover {
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
     background-color: #4b506f;
     color: #f0f2f9;
     transition: all 0.3s ease-in-out;
